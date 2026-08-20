@@ -1,0 +1,4 @@
+# Requirements for AI Recruiter
+# No external libraries are required.
+# Uses Python built-in modules:
+# - json
