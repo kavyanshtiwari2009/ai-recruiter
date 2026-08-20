@@ -109,3 +109,8 @@ Future versions of the project could include:
 * Larger skill and technology databases.
 * Machine learning-based entity extraction.
 * Integration with a recruiter dashboard or database.
+
+
+## Project Output
+
+![AI Recruiter Output](Screenshots/output.png)
